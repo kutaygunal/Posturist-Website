@@ -11,6 +11,10 @@ A modern marketing website for **Posturist**, a 21-day guided posture training a
 
 **🌐 Live site:** [posturistapp.com](https://www.posturistapp.com/)
 
+**📱 iOS App:** [Download on the App Store](https://apps.apple.com/us/app/posturist/id6760512476)
+
+**🤖 Android App:** [Get it on Google Play](https://play.google.com/store/apps/details?id=com.kg.posturist)
+
 </div>
 
 ---
