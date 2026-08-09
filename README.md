@@ -13,6 +13,14 @@ A modern marketing website for **Posturist**, a 21-day guided posture training a
 
 ---
 
+## 📸 Screenshot
+
+![Posturist — Improve Your Posture](screenshot.png)
+
+> The modern landing page: hero, features, program, gallery, and CTA.
+
+---
+
 ## 📖 Overview
 
 A clean, responsive landing site for **Posturist** — a posture training app built around a structured **21-day challenge**. The site showcases the product's core value: guided daily workouts, clear exercise guidance, progress tracking, and shareable milestones.
