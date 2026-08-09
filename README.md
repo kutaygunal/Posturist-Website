@@ -9,6 +9,8 @@ A modern marketing website for **Posturist**, a 21-day guided posture training a
 [![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)](https://jekyllrb.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
+**🌐 Live site:** [posturistapp.com](https://www.posturistapp.com/)
+
 </div>
 
 ---
@@ -54,7 +56,11 @@ A clean, responsive landing site for **Posturist** — a posture training app bu
 - A static file server (or just open `index.html` in a browser)
 - [Jekyll](https://jekyllrb.com/) *(optional, for GitHub Pages)*
 
-### 1. Clone the repo
+### 1. Visit the live site
+
+The site is deployed at **[https://www.posturistapp.com/](https://www.posturistapp.com/)**.
+
+### 2. Clone the repo
 
 ```bash
 git clone https://github.com/kutaygunal/Posturist-Website.git
